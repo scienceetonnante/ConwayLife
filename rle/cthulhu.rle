@@ -1,0 +1,7 @@
+#N Cthulhu
+#O Adam P. Goucher
+#C http://conwaylife.com/wiki/Cthulhu
+#C http://conwaylife.com/patterns/cthulhu.rle
+x = 11, y = 13, rule = B3/S23
+bo3bo3bo$obobobobobo$obobobobobo$b2obobob2o$4bobo$4bobo$3b2ob2o$2bo4bo
+$2b2ob2o$3bobo$2bo2bo$2bobo$b2ob2o!
